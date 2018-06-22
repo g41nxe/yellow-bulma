@@ -1,0 +1,7 @@
+---
+Title: Product b
+Tagline: Awesome Product
+Description: Description 2
+---
+
+Buy Now!

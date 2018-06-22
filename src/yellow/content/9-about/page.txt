@@ -1,0 +1,6 @@
+---
+Title: About
+Tagline: Tagline About
+---
+
+Lorem ipsum dolor sit amet

@@ -1,0 +1,27 @@
+{
+  "name": "yellow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "bulma": "^0.7.1",
+    "chdir": "0.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-image": "^4.3.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-rm": "^1.0.5",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "node-sass": "^4.9.0",
+    "uglify-js": "^3.3.25"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^5.0.0"
+  }
+}

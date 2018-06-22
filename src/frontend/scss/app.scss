@@ -1,0 +1,7 @@
+
+section.hero {
+  background-image: url(/media/images/stockholm-banner.jpg);
+  background-size: cover;
+  @extend .is-small;
+  @extend .is-light;
+}

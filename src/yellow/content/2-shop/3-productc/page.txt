@@ -1,0 +1,8 @@
+---
+Title: Product 3
+Tagline: Nice Product
+Description: Description 3
+FeatureImage:  picture.jpg
+---
+
+Buy Now!
